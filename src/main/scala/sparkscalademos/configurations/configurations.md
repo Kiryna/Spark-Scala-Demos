@@ -1,8 +1,14 @@
 ###ConfigurationsDemo
 
 `conf.setMaster(master)`
+
+
 `conf.setAppName(name)`
+
+
 `conf.set(key, value)`
+
+
 `conf.getAll`
 
 
